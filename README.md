@@ -1,15 +1,18 @@
-
 <h1 align="center">
-  <a href="www.jahanzaibmalik.com">
+  <a href="http://www.jahanzaibmalik.com">
     <img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=34&pause=1000&center=true&vCenter=true&width=500&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Jahanzaib;Jahanzaib+%D9%85%D8%B1%D8%AD%D8%A8%D9%8B%D8%A7+%F0%9F%91%8B+%D8%8C+%D8%A3%D9%86%D8%A7+;%DB%81%DB%8C%D9%84%D9%88+%F0%9F%91%8B%D8%8C+%D9%85%DB%8C%DA%BA+%D8%AC%DB%81%D8%A7%D9%86%D8%B2%DB%8C%D8%A8+%DB%81%D9%88%DA%BA;%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%F0%9F%91%8B%E3%80%81%E7%A7%81%E3%81%AF+Jahanzaib;%E4%BD%A0%E5%A5%BD%F0%9F%91%8B%EF%BC%8C%E6%88%91%E6%98%AF+Jahanzaib;%E0%A4%A8%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%87+%F0%9F%91%8B%2C+%E0%A4%AE%E0%A5%88%E0%A4%82+Jahanzaib+%E0%A4%B9%E0%A5%82%E0%A4%82;Hallo+%F0%9F%91%8B%2C+ich+bin+Jahanzaib;%CE%93%CE%B5%CE%B9%CE%B1+%CF%83%CE%B1%CF%82+%F0%9F%91%8B%2C+%CE%B5%CE%AF%CE%BC%CE%B1%CE%B9+%CE%BF+Jahanzaib;%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94+%F0%9F%91%8B%2C+%EC%A0%80%EB%8A%94+%EC%9E%90%ED%95%9C%EC%9E%90%EC%9D%B4%EB%B8%8C%EC%9E%85%EB%8B%88%EB%8B%A4.;Hallo+daar+%F0%9F%91%8B%2C+ik+ben+Jahanzaib" alt="Typing SVG" />
     </a>
    <br>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=VT323&pause=1000&center=true&vCenter=true&repeat=false&width=435&lines=Currently+based+in+California%F0%9F%8C%B4" alt="Typing SVG" /></a>
+  <a href="https://www.jahanzaibmalik.com"><img src="https://readme-typing-svg.herokuapp.com?font=VT323&pause=1000&center=true&vCenter=true&repeat=false&width=435&lines=Currently+based+in+California%F0%9F%8C%B4" alt="Typing SVG" /></a>
 </h1>
 
+<h3 align="center">
+  <a href="https://www.jahanzaibmalik.com"><img src="https://readme-typing-svg.herokuapp.com?font=VT323&duration=1&pause=1000&center=true&vCenter=true&repeat=false&width=435&lines=Things+I+%E2%9D%A4%EF%B8%8F..." alt="Typing SVG" /></a>
+  
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=VT323&pause=1000&center=true&vCenter=true&width=435&lines=Development%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Photography%F0%9F%93%B8;F1%F0%9F%8F%8E%EF%B8%8F;Coffee%E2%98%95;Yet+another+cup+of+coffee...cheers%E2%98%95%E2%98%95" alt="Typing SVG" /></a>
+</h3>
 
-
-# 💫 About Me:
+## 💫 About Me:
 🔭 I’m currently working on my Master's Thesis Project<br><br>🌱 I’m currently learning React and Node.js<br><br>📫 How to reach me 7zzayb@gmail.com<br><br>⚡ Fun fact - I think I am hungry
 
 
