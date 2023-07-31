@@ -13,7 +13,7 @@
 </h3>
 
 ## 💫 About Me:
-🔭 I’m currently working on my Master's Thesis Project<br><br>🌱 I’m currently learning React and Node.js<br><br>📫 How to reach me 7zzayb@gmail.com<br><br>⚡ Fun fact - I think I am hungry
+🔭 I’m currently working on my [Master's Thesis Project](https://scholarworks.calstate.edu/concern/theses/b2774298n)<br><br>🌱 I’m currently learning React and Node.js<br><br>📫 How to reach me 7zzayb@gmail.com<br><br>⚡ Fun fact - I think I am hungry
 
 
 ## 🌐 Socials:
