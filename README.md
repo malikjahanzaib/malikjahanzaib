@@ -9,7 +9,7 @@
 <h3 align="center">
   <a href="https://www.jahanzaibmalik.com"><img src="https://readme-typing-svg.herokuapp.com?font=VT323&duration=1&pause=1000&color=006600&center=true&vCenter=true&repeat=false&width=435&lines=Things+I+%E2%9D%A4%EF%B8%8F..." alt="Typing SVG" /></a>
   
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=VT323&pause=1000&color=006600&center=true&vCenter=true&width=435&lines=Development%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Photography%F0%9F%93%B8;F1%F0%9F%8F%8E%EF%B8%8F;Coffee%E2%98%95;Yet+another+cup+of+coffee...cheers%E2%98%95%E2%98%95" alt="Typing SVG" /></a>
+<a href="https://www.jahanzaibmalik.com"><img src="https://readme-typing-svg.herokuapp.com?font=VT323&pause=1000&color=006600&center=true&vCenter=true&width=435&lines=Development%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Photography%F0%9F%93%B8;F1%F0%9F%8F%8E%EF%B8%8F;Coffee%E2%98%95;Yet+another+cup+of+coffee...cheers%E2%98%95%E2%98%95" alt="Typing SVG" /></a>
 </h3>
 
 ## 💫 About Me:
