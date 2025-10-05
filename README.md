@@ -13,7 +13,7 @@
 </h3>
 
 ## 💫 About Me:
-🔭 I’m currently working on my [Master's Thesis Project](https://scholarworks.calstate.edu/concern/theses/b2774298n)<br><br>🌱 I’m currently learning building MCP Servers<br><br>📫 Reach me at jahanzaibmalikwork@gmail.com<br><br>⚡ Fun fact - "Did you know? The first webcam was invented to check the status of a coffee pot at Cambridge University in 1991. <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Talk about high-tech caffeine monitoring!"
+🔭 I’m currently working on my [Master's Thesis Project](https://scholarworks.calstate.edu/concern/theses/b2774298n)<br><br>🌱 I’m currently learning about building MCP servers<br><br>📫 Reach me at jahanzaibmalikwork@gmail.com<br><br>⚡ Fun fact - "Did you know? The first webcam was invented to check the status of a coffee pot at Cambridge University in 1991. <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Talk about high-tech caffeine monitoring!"
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jhnzxb) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jahanzaibmalik) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/mylkshaykh) 
